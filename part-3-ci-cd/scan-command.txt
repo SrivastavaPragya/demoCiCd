@@ -1,0 +1,1 @@
+ssh-keyscan ec2-34-219-21-206.us-west-2.compute.amazonaws.com >> known_hosts
