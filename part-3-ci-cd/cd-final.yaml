@@ -29,7 +29,7 @@ name: Deploy
 on:
   push:
     branches:
-      -main 
+      - main 
 
 jobs:
   deploy:
